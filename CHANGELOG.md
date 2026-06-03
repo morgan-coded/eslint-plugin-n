@@ -1,5 +1,18 @@
 # Changelog
 
+## [18.1.0](https://github.com/eslint-community/eslint-plugin-n/compare/v18.0.1...v18.1.0) (2026-06-03)
+
+
+### 🌟 Features
+
+* support `devEngines.runtime` from package.json ([#530](https://github.com/eslint-community/eslint-plugin-n/issues/530)) ([9ef3c32](https://github.com/eslint-community/eslint-plugin-n/commit/9ef3c32b3c2bcbd1f6ad8dc57513b20674a1b130))
+
+
+### 📚 Documentation
+
+* fix usage in README.md ([c1b1b84](https://github.com/eslint-community/eslint-plugin-n/commit/c1b1b8427e94f751b4e4ffa9d77cbe2d6b4412c9))
+* Update online playground link in README ([058916a](https://github.com/eslint-community/eslint-plugin-n/commit/058916a2dbb3f2d1981edcf89b937a46d051c305))
+
 ## [18.0.1](https://github.com/eslint-community/eslint-plugin-n/compare/v18.0.0...v18.0.1) (2026-05-05)
 
 
